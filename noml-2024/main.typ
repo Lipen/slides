@@ -14,7 +14,7 @@
     author: link("https://github.com/Lipen")[Konstantin Chukharev],
     date: [November 2024],
     institution: [ITMO University],
-    logo: image("assets/logo-itmo.png", height: 1em),
+    logo: image("img/logo-itmo.png", height: 1em),
   ),
 )
 
@@ -95,7 +95,7 @@
     image(
       fit: "contain",
       height: 100%,
-      "assets/me.png",
+      "img/me.png",
     ),
   ),
   [
